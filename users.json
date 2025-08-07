@@ -1,0 +1,15 @@
+{
+  "1": {
+    "salt": "944e7d474fa63bd3e613a1183ddb131a",
+    "hashedPassword": "e2a516fac331f690bd07c6273b72b9ad7e3fb45c86756c8dabea73e4a0ee66ca67f69fdb6007ce85e181e86cd4b96f9b941c324a412bbed4e94aab58532cdd74"
+  },
+  "2": {
+    "salt": "d397560df6008dd1b245d528e9a884aa",
+    "hashedPassword": "948d2b44bae10f87fe091a0f4eb863a7da2cff68f6ad3a96762f14b5f6f33719cc08ec2432cc1eaab631022ffe577e08914e869cb8be6c7e885b6a1186d537c1"
+  },
+  "Will": {
+    "salt": "96386348b426304107025a7e14e5bb05",
+    "hashedPassword": "a9b2e6a211ec24bcb94b7255c5be2b86d098db539d047cffdf9b96f59d3ed0dc9ff5c9049c648742b716b26853bb0ed17cb1824a76382d0668945b1c816d339c",
+    "role": "teacher"
+  }
+}
